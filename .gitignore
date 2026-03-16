@@ -1,4 +1,3 @@
 .venv
 compensation_office_matches.csv
 compoff_extracted.jsonl
-hf_llm_matches_progress.jsonl
